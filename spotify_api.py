@@ -62,11 +62,9 @@ def get_genres(json_obj):
     return genres
 
 # fire 'er off!!
-def main():
+def return_genre(artist_name):
     access_token = get_access_token()
     # choosing taylor swift as a test artist to get her genres back
     json_obj = search_request(access_token, "taylor swift", "artist")
     genres = get_genres(json_obj)
-    print("taylor swift's genres:", genres)
-
-main()
+    return(genres)
