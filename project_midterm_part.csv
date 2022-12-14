@@ -1,7 +1,7 @@
 endTime,artistName,trackName,msPlayed
 2020-07-25 00:13,Crisaunt,Emotionless,30140
 2021-10-04 06:43,Bakar,Hell N Back,13220
-2021-10-05 00:15,Playboi Carti,Go2DaMoon (feat. Kanye West),405
+2021-10-05 00:15,Playboi Carti,Go2DaMoon (feat. Playboi Carti),405
 2021-10-05 00:15,Playboi Carti,Rockstar Made,320
 2021-10-05 00:15,Yeat,Monëy so big,13397
 2021-10-05 00:19,Playboi Carti,Stop Breathing,218943
@@ -27,21 +27,21 @@ endTime,artistName,trackName,msPlayed
 2021-10-06 07:05,Pop Smoke,No Cap (with M24) - Remix,760
 2021-10-06 07:05,Digga D,Chingy (It’s Whatever),3830
 2021-10-06 07:07,Gio Genesis,Peace & Blessings,100760
-2021-10-06 14:51,Kanye West,God Breathed,256
-2021-10-06 14:51,Kanye West,Jail,250154
-2021-10-06 14:51,Kanye West,Off The Grid,597
-2021-10-06 14:55,Kanye West,Hurricane,243187
-2021-10-06 14:59,Kanye West,Praise God,226652
-2021-10-06 15:02,Kanye West,Jonah,195170
-2021-10-06 15:03,Kanye West,Ok Ok,41421
-2021-10-06 15:04,Kanye West,Moon,3178
-2021-10-06 15:04,Kanye West,Junya,41685
-2021-10-06 15:10,Kanye West,Pure Souls,358621
-2021-10-06 15:15,Kanye West,Come to Life,310393
-2021-10-06 15:16,Kanye West,Jail pt 2,3071
-2021-10-06 15:16,Kanye West,No Child Left Behind,62760
-2021-10-06 15:20,Kanye West,No Child Left Behind,178061
-2021-10-06 15:44,Kanye West,Jail pt 2,186832
+2021-10-06 14:51,Playboi Carti,God Breathed,256
+2021-10-06 14:51,Playboi Carti,Jail,250154
+2021-10-06 14:51,Playboi Carti,Off The Grid,597
+2021-10-06 14:55,Playboi Carti,Hurricane,243187
+2021-10-06 14:59,Playboi Carti,Praise God,226652
+2021-10-06 15:02,Playboi Carti,Jonah,195170
+2021-10-06 15:03,Playboi Carti,Ok Ok,41421
+2021-10-06 15:04,Playboi Carti,Moon,3178
+2021-10-06 15:04,Playboi Carti,Junya,41685
+2021-10-06 15:10,Playboi Carti,Pure Souls,358621
+2021-10-06 15:15,Playboi Carti,Come to Life,310393
+2021-10-06 15:16,Playboi Carti,Jail pt 2,3071
+2021-10-06 15:16,Playboi Carti,No Child Left Behind,62760
+2021-10-06 15:20,Playboi Carti,No Child Left Behind,178061
+2021-10-06 15:44,Playboi Carti,Jail pt 2,186832
 2021-10-06 16:02,Frank Ocean,Self Control,249667
 2021-10-06 16:06,Steve Lacy,Love 2 Fast,222981
 2021-10-06 16:08,Pink Floyd,Echoes,83450
@@ -62,8 +62,8 @@ endTime,artistName,trackName,msPlayed
 2021-10-06 16:11,Izaya Tiji,Seth Rogan,2650
 2021-10-06 16:11,Steve Lacy,Love 2 Fast,500
 2021-10-06 16:11,Steve Lacy,Love 2 Fast,320
-2021-10-06 16:11,Kanye West,Hell Of A Life,870
-2021-10-06 16:11,Kanye West,Hell Of A Life,200
+2021-10-06 16:11,Playboi Carti,Hell Of A Life,870
+2021-10-06 16:11,Playboi Carti,Hell Of A Life,200
 2021-10-06 16:11,Destroy Lonely Archive,Casket,400
 2021-10-06 16:11,BIGBABYGUCCI,Pressure + Layers,890
 2021-10-06 16:11,Baby Keem,HONEST,72075
@@ -87,14 +87,14 @@ endTime,artistName,trackName,msPlayed
 2021-10-06 16:36,BIGBABYGUCCI,Pressure + Layers,103189
 2021-10-06 16:40,Ken Carson,Run + Ran,244376
 2021-10-06 16:43,Luchii,X6,184109
-2021-10-06 16:43,Kanye West,Hell Of A Life,2984
+2021-10-06 16:43,Playboi Carti,Hell Of A Life,2984
 2021-10-06 16:46,Yeat,Monëy so big,160052
 2021-10-06 16:48,Lil 1 DTE,Homixide (feat. Playboi Carti),145294
-2021-10-06 16:54,Kanye West,Off The Grid,339249
+2021-10-06 16:54,Playboi Carti,Off The Grid,339249
 2021-10-06 18:58,Playboi Carti,R.I.P.,106535
 2021-10-06 21:48,Playboi Carti,Rockstar Made,115010
 2021-10-06 22:21,Playboi Carti,Rockstar Made,78814
-2021-10-06 22:23,Playboi Carti,Go2DaMoon (feat. Kanye West),119737
+2021-10-06 22:23,Playboi Carti,Go2DaMoon (feat. Playboi Carti),119737
 2021-10-06 22:27,Playboi Carti,JumpOutTheHouse,4608
 2021-10-06 22:27,Playboi Carti,Stop Breathing,119143
 2021-10-06 22:27,Playboi Carti,Beno!,853
@@ -120,7 +120,7 @@ endTime,artistName,trackName,msPlayed
 2021-10-06 23:07,Future,Tic Tac,189147
 2021-10-06 23:07,Mitski,First Love / Late Spring,12763
 2021-10-06 23:11,Isaiah Rashad,Smile,203371
-2021-10-06 23:12,Kanye West,Blame Game,2367
+2021-10-06 23:12,Playboi Carti,Blame Game,2367
 2021-10-06 23:12,Brent Faiyaz,Rehab (Winter In Paris),57994
 2021-10-06 23:14,Destroy Lonely,Bane,140831
 2021-10-06 23:16,LUCKI,TBT,106666
@@ -147,13 +147,13 @@ endTime,artistName,trackName,msPlayed
 2021-10-07 02:42,Mac Miller,Congratulations (feat. Bilal),2470
 2021-10-07 02:42,Mac Miller,Congratulations (feat. Bilal),13080
 2021-10-07 02:42,Baby Keem,HONEST,127890
-2021-10-07 02:43,Chief Keef,Nobody (feat. Kanye West),820
-2021-10-07 02:43,Kanye West,Don't Like.1,5220
-2021-10-07 02:45,Chief Keef,Nobody (feat. Kanye West),165560
-2021-10-07 02:48,Kanye West,Fade,178580
-2021-10-07 02:51,Kanye West,All Mine,144581
-2021-10-07 02:54,Kanye West,Wouldn't Leave,204116
-2021-10-07 02:55,Kanye West,No Mistakes,46250
+2021-10-07 02:43,Chief Keef,Nobody (feat. Playboi Carti),820
+2021-10-07 02:43,Playboi Carti,Don't Like.1,5220
+2021-10-07 02:45,Chief Keef,Nobody (feat. Playboi Carti),165560
+2021-10-07 02:48,Playboi Carti,Fade,178580
+2021-10-07 02:51,Playboi Carti,All Mine,144581
+2021-10-07 02:54,Playboi Carti,Wouldn't Leave,204116
+2021-10-07 02:55,Playboi Carti,No Mistakes,46250
 2021-10-07 02:58,Rae Sremmurd,Real Chill,169470
 2021-10-07 03:00,Kodak Black,There He Go,112410
 2021-10-07 03:02,Post Malone,Motley Crew,9600
@@ -168,7 +168,7 @@ endTime,artistName,trackName,msPlayed
 2021-10-07 03:17,Yeat,Lying 4 fun,227810
 2021-10-07 03:18,Yeat,Cmon,102030
 2021-10-07 03:21,Yeat,Morning mudd,142793
-2021-10-07 05:10,Chief Keef,Nobody (feat. Kanye West),3930
+2021-10-07 05:10,Chief Keef,Nobody (feat. Playboi Carti),3930
 2021-10-07 05:19,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",9560
 2021-10-07 05:19,Yeat,Monëy so big,5450
 2021-10-07 18:33,Pink Floyd,One of These Days,1880
@@ -176,15 +176,15 @@ endTime,artistName,trackName,msPlayed
 2021-10-08 21:02,Lil Tecca,LOT OF ME,26218
 2021-10-09 03:43,Lil Tecca,LOT OF ME,960
 2021-10-09 03:43,Lil Tecca,INVESTIGATION,1493
-2021-10-09 03:43,Chief Keef,Nobody (feat. Kanye West),0
+2021-10-09 03:43,Chief Keef,Nobody (feat. Playboi Carti),0
 2021-10-09 03:45,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",155349
-2021-10-09 03:45,Chief Keef,Nobody (feat. Kanye West),7231
+2021-10-09 03:45,Chief Keef,Nobody (feat. Playboi Carti),7231
 2021-10-09 03:46,Frank Ocean,Self Control,3605
 2021-10-09 03:46,Yeat,Monëy so big,4629
 2021-10-09 03:49,Voxtrot,"Berlin, Without Return...",3114
 2021-10-09 03:49,Steve Lacy,Love 2 Fast,210538
-2021-10-09 03:49,Kanye West,Bound 2,7466
-2021-10-09 03:49,Kanye West,Bound 2,2304
+2021-10-09 03:49,Playboi Carti,Bound 2,7466
+2021-10-09 03:49,Playboi Carti,Bound 2,2304
 2021-10-09 03:50,Playboi Carti,Stop Breathing,7829
 2021-10-09 03:50,Playboi Carti,King Vamp,853
 2021-10-09 03:50,Playboi Carti,Rockstar Made,1450
@@ -214,18 +214,18 @@ endTime,artistName,trackName,msPlayed
 2021-10-09 05:23,TV Girl,Lovers Rock,134016
 2021-10-11 03:33,TV Girl,Lovers Rock,44565
 2021-10-11 03:36,Playboi Carti,Rockstar Made,193574
-2021-10-11 03:38,Playboi Carti,Go2DaMoon (feat. Kanye West),119737
+2021-10-11 03:38,Playboi Carti,Go2DaMoon (feat. Playboi Carti),119737
 2021-10-11 03:42,Playboi Carti,Stop Breathing,218943
 2021-10-11 03:44,Playboi Carti,Beno!,153333
 2021-10-11 03:45,Playboi Carti,JumpOutTheHouse,20245
 2021-10-11 03:46,Playboi Carti,M3tamorphosis (feat. Kid Cudi),80170
-2021-10-11 03:49,Kanye West,Street Lights,189906
-2021-10-11 04:39,Kanye West,Ghost Town,271386
+2021-10-11 03:49,Playboi Carti,Street Lights,189906
+2021-10-11 04:39,Playboi Carti,Ghost Town,271386
 2021-10-11 04:43,Playboi Carti,Flex,240459
 2021-10-11 04:46,Travis Scott,sdp interlude,191622
 2021-10-11 04:46,Mac Miller,Small Worlds,16417
 2021-10-11 04:46,KIDS SEE GHOSTS,Cudi Montage,22762
-2021-10-11 05:32,Kanye West,No More Parties In LA,222848
+2021-10-11 05:32,Playboi Carti,No More Parties In LA,222848
 2021-10-11 06:08,Smiley,In My Zone,0
 2021-10-11 06:09,Smiley,In My Zone,50540
 2021-10-11 06:10,Yeat,Monëy so big,44280
@@ -238,16 +238,16 @@ endTime,artistName,trackName,msPlayed
 2021-10-11 06:22,Young Thug,On the Run (feat. Offset),38790
 2021-10-11 06:22,Young Thug,Sin (feat. Jaden Smith),202533
 2021-10-11 06:25,Young Thug,Check,150250
-2021-10-11 09:15,Kanye West,Dark Fantasy,2530
-2021-10-11 14:49,Kanye West,No More Parties In LA,8362
+2021-10-11 09:15,Playboi Carti,Dark Fantasy,2530
+2021-10-11 14:49,Playboi Carti,No More Parties In LA,8362
 2021-10-11 14:52,Strawberry Guy,F Song,224655
 2021-10-11 14:56,Destroy Lonely,In The Air,206878
 2021-10-11 14:59,Don Toliver,You (feat. Travis Scott),213637
 2021-10-11 15:03,Don Toliver,Smoke (feat. HVN & SoFaygo),199845
 2021-10-11 15:04,Smiley,In My Zone,87960
 2021-10-11 15:04,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",298
-2021-10-11 15:04,Chief Keef,Nobody (feat. Kanye West),4927
-2021-10-11 15:07,Kanye West,Blame Game,149
+2021-10-11 15:04,Chief Keef,Nobody (feat. Playboi Carti),4927
+2021-10-11 15:07,Playboi Carti,Blame Game,149
 2021-10-11 15:07,Pink Floyd,Any Colour You Like,1663
 2021-10-11 15:07,LUCKI,TBT,704
 2021-10-11 15:07,Future,Tic Tac,896
@@ -270,11 +270,11 @@ endTime,artistName,trackName,msPlayed
 2021-10-11 15:46,Jaden,Ninety,2580
 2021-10-11 15:50,Kendrick Lamar,Wesley's Theory,287360
 2021-10-11 15:54,Lil Uzi Vert,Secure The Bag,238425
-2021-10-11 15:58,Kanye West,Flashing Lights,237506
+2021-10-11 15:58,Playboi Carti,Flashing Lights,237506
 2021-10-11 16:01,Travis Scott,sdp interlude,191622
-2021-10-11 16:05,Kanye West,Waves,181573
-2021-10-11 16:09,Kanye West,Ghost Town,271386
-2021-10-11 16:13,A$AP Rocky,Jukebox Joints (feat. Joe Fox & Kanye West),4542
+2021-10-11 16:05,Playboi Carti,Waves,181573
+2021-10-11 16:09,Playboi Carti,Ghost Town,271386
+2021-10-11 16:13,A$AP Rocky,Jukebox Joints (feat. Joe Fox & Playboi Carti),4542
 2021-10-11 16:13,JAY-Z,Why I Love You,6010
 2021-10-11 16:13,JAY-Z,Why I Love You,201373
 2021-10-11 16:18,JAY-Z,Lift Off,266253
@@ -284,28 +284,28 @@ endTime,artistName,trackName,msPlayed
 2021-10-11 16:29,JAY-Z,That's My Bitch,15586
 2021-10-11 16:29,JAY-Z,New Day,272853
 2021-10-11 16:30,JAY-Z,Welcome To The Jungle,8050
-2021-10-11 16:30,Kanye West,Father Stretch My Hands Pt. 1,730
-2021-10-11 16:49,Kanye West,Ultralight Beam,320680
-2021-10-11 16:51,Kanye West,Father Stretch My Hands Pt. 1,135920
-2021-10-11 16:52,Kanye West,Pt. 2,45170
-2021-10-11 16:55,Kanye West,Famous,196040
-2021-10-11 16:57,Kanye West,Feedback,147240
-2021-10-11 21:02,Kanye West,Low Lights,117160
-2021-10-11 21:02,Kanye West,Highlights,9440
-2021-10-11 21:03,Kanye West,I Am A God,260
-2021-10-11 21:03,Kanye West,On Sight,130
-2021-10-11 21:03,Kanye West,Black Skinhead,380
+2021-10-11 16:30,Playboi Carti,Father Stretch My Hands Pt. 1,730
+2021-10-11 16:49,Playboi Carti,Ultralight Beam,320680
+2021-10-11 16:51,Playboi Carti,Father Stretch My Hands Pt. 1,135920
+2021-10-11 16:52,Playboi Carti,Pt. 2,45170
+2021-10-11 16:55,Playboi Carti,Famous,196040
+2021-10-11 16:57,Playboi Carti,Feedback,147240
+2021-10-11 21:02,Playboi Carti,Low Lights,117160
+2021-10-11 21:02,Playboi Carti,Highlights,9440
+2021-10-11 21:03,Playboi Carti,I Am A God,260
+2021-10-11 21:03,Playboi Carti,On Sight,130
+2021-10-11 21:03,Playboi Carti,Black Skinhead,380
 2021-10-11 21:03,Playboi Carti,ILoveUIHateU,33350
-2021-10-11 21:03,Kanye West,Hold My Liquor,2590
-2021-10-11 21:06,Kanye West,Black Skinhead,188013
-2021-10-11 21:10,Kanye West,I Am A God,231506
-2021-10-11 21:14,Kanye West,New Slaves,256093
-2021-10-11 21:15,Kanye West,Hold My Liquor,39406
-2021-10-11 21:19,Kanye West,I'm In It,234853
-2021-10-11 21:25,Kanye West,Blood On The Leaves,359800
-2021-10-11 21:29,Kanye West,Guilt Trip,243746
+2021-10-11 21:03,Playboi Carti,Hold My Liquor,2590
+2021-10-11 21:06,Playboi Carti,Black Skinhead,188013
+2021-10-11 21:10,Playboi Carti,I Am A God,231506
+2021-10-11 21:14,Playboi Carti,New Slaves,256093
+2021-10-11 21:15,Playboi Carti,Hold My Liquor,39406
+2021-10-11 21:19,Playboi Carti,I'm In It,234853
+2021-10-11 21:25,Playboi Carti,Blood On The Leaves,359800
+2021-10-11 21:29,Playboi Carti,Guilt Trip,243746
 2021-10-11 22:02,Don Toliver,Smoke (feat. HVN & SoFaygo),10304
-2021-10-11 22:02,Kanye West,Send It Up,153595
+2021-10-11 22:02,Playboi Carti,Send It Up,153595
 2021-10-11 22:03,Smiley,In My Zone,63936
 2021-10-11 22:04,Playboi Carti,Meh,469
 2021-10-11 22:06,Playboi Carti,New Tank,10880
@@ -317,18 +317,18 @@ endTime,artistName,trackName,msPlayed
 2021-10-11 22:07,Destroy Lonely,Oh Yeah,5482
 2021-10-11 22:10,Destroy Lonely,In The Air,206878
 2021-10-11 22:19,Don Toliver,You (feat. Travis Scott),52291
-2021-10-11 22:27,Kanye West,Off The Grid,423618
-2021-10-11 22:28,Kanye West,Off The Grid,1471
-2021-10-11 22:28,Kanye West,Hurricane,60819
-2021-10-11 22:32,Kanye West,Hurricane,243187
-2021-10-11 22:34,Kanye West,Jonah,1023
-2021-10-11 22:34,Kanye West,Praise God,121953
-2021-10-11 22:34,Kanye West,Ok Ok,12736
-2021-10-11 22:37,Kanye West,Junya,147668
-2021-10-11 22:43,Kanye West,Pure Souls,358621
-2021-10-11 22:48,Kanye West,Jail pt 2,297000
-2021-10-11 22:51,Kanye West,Keep My Spirit Alive,221250
-2021-10-11 22:52,Kanye West,No Child Left Behind,33064
+2021-10-11 22:27,Playboi Carti,Off The Grid,423618
+2021-10-11 22:28,Playboi Carti,Off The Grid,1471
+2021-10-11 22:28,Playboi Carti,Hurricane,60819
+2021-10-11 22:32,Playboi Carti,Hurricane,243187
+2021-10-11 22:34,Playboi Carti,Jonah,1023
+2021-10-11 22:34,Playboi Carti,Praise God,121953
+2021-10-11 22:34,Playboi Carti,Ok Ok,12736
+2021-10-11 22:37,Playboi Carti,Junya,147668
+2021-10-11 22:43,Playboi Carti,Pure Souls,358621
+2021-10-11 22:48,Playboi Carti,Jail pt 2,297000
+2021-10-11 22:51,Playboi Carti,Keep My Spirit Alive,221250
+2021-10-11 22:52,Playboi Carti,No Child Left Behind,33064
 2021-10-12 05:46,Smiley,In My Zone,133600
 2021-10-12 05:46,Don Toliver,You (feat. Travis Scott),6190
 2021-10-12 05:46,Punkinloveee,Freak Show,10650
@@ -390,18 +390,18 @@ endTime,artistName,trackName,msPlayed
 2021-10-12 07:47,We,Зеркало,91139
 2021-10-12 07:48,Dammntc,Orion's Belt,94110
 2021-10-12 07:48,Drake,Girls Want Girls (with Lil Baby),3300
-2021-10-12 07:52,Kanye West,Ok Ok,203270
-2021-10-12 07:55,Kanye West,Praise God,226652
-2021-10-12 07:59,Kanye West,Hurricane,243187
-2021-10-12 08:05,Kanye West,Off The Grid,339249
-2021-10-12 08:08,Kanye West,Junya pt 2,182635
+2021-10-12 07:52,Playboi Carti,Ok Ok,203270
+2021-10-12 07:55,Playboi Carti,Praise God,226652
+2021-10-12 07:59,Playboi Carti,Hurricane,243187
+2021-10-12 08:05,Playboi Carti,Off The Grid,339249
+2021-10-12 08:08,Playboi Carti,Junya pt 2,182635
 2021-10-12 08:12,Celeste,Strange,255986
 2021-10-12 08:15,Erol Evgin,Söyle Canım,174540
 2021-10-12 08:15,Celeste,Strange,1400
-2021-10-12 08:16,Kanye West,Pure Souls,6380
+2021-10-12 08:16,Playboi Carti,Pure Souls,6380
 2021-10-12 14:53,Yeat,Monëy so big,160052
-2021-10-12 14:56,Kanye West,New Again,183296
-2021-10-12 14:57,Kanye West,Praise God,1344
+2021-10-12 14:56,Playboi Carti,New Again,183296
+2021-10-12 14:57,Playboi Carti,Praise God,1344
 2021-10-12 14:57,Isaiah Rashad,Smile,4693
 2021-10-12 14:57,JID,Off Deez (with J. Cole),1386
 2021-10-12 14:57,Beach House,Space Song,87949
@@ -411,7 +411,7 @@ endTime,artistName,trackName,msPlayed
 2021-10-12 15:08,Cordae,Been Around,1685
 2021-10-12 15:08,Lil Skies,Red Roses (feat. Landon Cube),209305
 2021-10-12 15:10,YBN Nahmir,Wake Up,124605
-2021-10-12 15:11,Kanye West,Lost In The World,5006
+2021-10-12 15:11,Playboi Carti,Lost In The World,5006
 2021-10-12 15:11,Lil Peep,Save That Shit,0
 2021-10-12 15:11,MadeinTYO,Square Bitch (feat. A$AP Ferg),0
 2021-10-12 15:13,Destroy Lonely,Bane,140831
@@ -419,8 +419,8 @@ endTime,artistName,trackName,msPlayed
 2021-10-12 15:17,A$AP Ferg,Plain Jane,99325
 2021-10-12 15:17,Comethazine,Sticks Out The Window,23168
 2021-10-12 15:17,XXXTENTACION,"ALONE, PART 3",917
-2021-10-12 15:21,Kanye West,I Wonder,211477
-2021-10-12 22:04,Kanye West,I Wonder,31960
+2021-10-12 15:21,Playboi Carti,I Wonder,211477
+2021-10-12 22:04,Playboi Carti,I Wonder,31960
 2021-10-12 22:04,Lil Yachty,Pardon Me (Lil Yachty feat. Future & Mike WiLL Made-It),35188
 2021-10-12 22:06,SSGKobe,FNF,18688
 2021-10-12 22:06,SSGKobe,FNF,0
@@ -440,8 +440,8 @@ endTime,artistName,trackName,msPlayed
 2021-10-12 22:10,Celeste,Strange,533
 2021-10-12 22:10,Autumn!,Not 3 Not 2!,576
 2021-10-12 22:14,SZA,Not Da Same,230191
-2021-10-12 22:18,Kanye West,Dark Fantasy,280786
-2021-10-12 22:23,Kanye West,Drive Slow,272226
+2021-10-12 22:18,Playboi Carti,Dark Fantasy,280786
+2021-10-12 22:23,Playboi Carti,Drive Slow,272226
 2021-10-12 22:25,Jelly,Patience,113190
 2021-10-12 22:26,Young Thug,Hop Off A Jet (feat. Travis Scott),9258
 2021-10-12 22:26,The Vaccines,Want You So Bad,48100
@@ -454,16 +454,16 @@ endTime,artistName,trackName,msPlayed
 2021-10-12 22:31,DaBaby,BLAME IT ON BABY,2815
 2021-10-12 22:33,Tay-K,Gotta Blast (feat. Diego Money & Bandman Fari),131000
 2021-10-12 22:33,"Tyler, The Creator",911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),0
-2021-10-12 22:33,Kanye West,I'll Fly Away,23017
+2021-10-12 22:33,Playboi Carti,I'll Fly Away,23017
 2021-10-12 22:33,21 Savage,Ocean Drive,810
-2021-10-12 22:34,Kanye West,Donda Chant,384
-2021-10-12 22:34,Kanye West,Jail,48810
+2021-10-12 22:34,Playboi Carti,Donda Chant,384
+2021-10-12 22:34,Playboi Carti,Jail,48810
 2021-10-12 22:34,Drake,I'm Upset,2368
 2021-10-12 22:35,SZA,Not Da Same,597
 2021-10-12 22:35,SZA Archived,X n Oxy,28693
-2021-10-12 22:35,Kanye West,Pure Souls,1834
+2021-10-12 22:35,Playboi Carti,Pure Souls,1834
 2021-10-12 22:36,SZA,Not Da Same,67797
-2021-10-12 22:42,Kanye West,Pure Souls,358621
+2021-10-12 22:42,Playboi Carti,Pure Souls,358621
 2021-10-13 00:31,Baby Keem,TOP RAMEN,22019
 2021-10-13 07:07,$NOT,Like Me (feat. iann dior),128
 2021-10-13 07:08,Steve Lacy,Like Me,45973
@@ -487,24 +487,24 @@ endTime,artistName,trackName,msPlayed
 2021-10-13 15:06,Denzel Curry,SWITCH IT UP | ZWITCH 1T UP,4991
 2021-10-13 15:06,DaBaby,VIBEZ,1109
 2021-10-13 15:06,Destroy Lonely,Oh Yeah,117394
-2021-10-13 15:12,Kanye West,Pure Souls,358621
+2021-10-13 15:12,Playboi Carti,Pure Souls,358621
 2021-10-13 15:13,Pink Floyd,Any Colour You Like,10837
 2021-10-13 15:13,Smiley,In My Zone,533
 2021-10-13 15:13,Lil Uzi Vert,P2,1194
-2021-10-13 15:13,Playboi Carti,Go2DaMoon (feat. Kanye West),362
+2021-10-13 15:13,Playboi Carti,Go2DaMoon (feat. Playboi Carti),362
 2021-10-13 15:13,Drake,Jumpman,6083
 2021-10-13 15:13,Drake,Blue Tint,1386
 2021-10-13 15:13,Playboi Carti,Rockstar Made,831
 2021-10-13 15:13,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",4586
 2021-10-13 15:13,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",1194
 2021-10-13 15:13,J. Cole,9 5 . s o u t h,0
-2021-10-13 15:13,Chief Keef,Nobody (feat. Kanye West),2581
-2021-10-13 15:14,Kanye West,God Breathed,3349
-2021-10-13 15:14,Kanye West,God Breathed,1365
+2021-10-13 15:13,Chief Keef,Nobody (feat. Playboi Carti),2581
+2021-10-13 15:14,Playboi Carti,God Breathed,3349
+2021-10-13 15:14,Playboi Carti,God Breathed,1365
 2021-10-13 15:14,Playboi Carti,Stop Breathing,46570
-2021-10-13 15:30,Kanye West,Off The Grid,76010
+2021-10-13 15:30,Playboi Carti,Off The Grid,76010
 2021-10-13 19:44,SSGKobe,FNF,2901
-2021-10-13 19:44,Kanye West,Off The Grid,245824
+2021-10-13 19:44,Playboi Carti,Off The Grid,245824
 2021-10-13 19:44,Autumn!,Not 3 Not 2!,5141
 2021-10-13 19:45,2 Chainz,4 AM,3520
 2021-10-13 19:45,Lil Yachty,All You Had To Say,0
@@ -522,99 +522,99 @@ endTime,artistName,trackName,msPlayed
 2021-10-13 19:50,Don Toliver,You (feat. Travis Scott),362
 2021-10-13 19:50,Travis Scott,goosebumps,1151
 2021-10-13 19:50,Lil Xan,Far,1066
-2021-10-13 19:50,Kanye West,Hold My Liquor,7893
+2021-10-13 19:50,Playboi Carti,Hold My Liquor,7893
 2021-10-13 19:50,Destroy Lonely,In The Air,1151
 2021-10-13 19:56,Don Toliver,You (feat. Travis Scott),35861
-2021-10-13 19:56,Chief Keef,Nobody (feat. Kanye West),1109
+2021-10-13 19:56,Chief Keef,Nobody (feat. Playboi Carti),1109
 2021-10-13 20:01,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",317565
 2021-10-13 20:11,Frank Ocean,Self Control,36518
 2021-10-13 20:11,Yeat,Monëy so big,160052
 2021-10-13 20:15,Steve Lacy,Love 2 Fast,222981
 2021-10-13 20:39,Pink Floyd,Echoes,1412451
 2021-10-13 20:40,Pink Floyd,Breathe (In the Air),69487
-2021-10-13 22:37,Kanye West,New Slaves,194568
-2021-10-13 22:38,Kanye West,Guilt Trip,3590
-2021-10-13 22:38,Kanye West,Guilt Trip,2000
-2021-10-13 22:38,Kanye West,I Am A God,2780
-2021-10-13 22:38,Kanye West,I Am A God,7419
-2021-10-13 22:38,Kanye West,On Sight,9050
-2021-10-13 22:38,Kanye West,Send It Up,11900
-2021-10-13 22:38,Kanye West,Send It Up,4320
-2021-10-13 22:38,Kanye West,I'm In It,3160
-2021-10-13 22:38,Kanye West,Black Skinhead,2310
-2021-10-13 22:38,Kanye West,New Slaves,1920
-2021-10-13 22:38,Kanye West,New Slaves,350
-2021-10-13 22:38,Kanye West,Hold My Liquor,3631
+2021-10-13 22:37,Playboi Carti,New Slaves,194568
+2021-10-13 22:38,Playboi Carti,Guilt Trip,3590
+2021-10-13 22:38,Playboi Carti,Guilt Trip,2000
+2021-10-13 22:38,Playboi Carti,I Am A God,2780
+2021-10-13 22:38,Playboi Carti,I Am A God,7419
+2021-10-13 22:38,Playboi Carti,On Sight,9050
+2021-10-13 22:38,Playboi Carti,Send It Up,11900
+2021-10-13 22:38,Playboi Carti,Send It Up,4320
+2021-10-13 22:38,Playboi Carti,I'm In It,3160
+2021-10-13 22:38,Playboi Carti,Black Skinhead,2310
+2021-10-13 22:38,Playboi Carti,New Slaves,1920
+2021-10-13 22:38,Playboi Carti,New Slaves,350
+2021-10-13 22:38,Playboi Carti,Hold My Liquor,3631
 2021-10-13 22:39,JAY-Z,Lift Off,9740
-2021-10-13 22:39,Kanye West,I Am A God,18670
-2021-10-13 22:39,Kanye West,Black Skinhead,7550
-2021-10-13 22:39,Kanye West,Blood On The Leaves,24220
+2021-10-13 22:39,Playboi Carti,I Am A God,18670
+2021-10-13 22:39,Playboi Carti,Black Skinhead,7550
+2021-10-13 22:39,Playboi Carti,Blood On The Leaves,24220
 2021-10-13 22:40,JAY-Z,Lift Off,10600
-2021-10-13 22:40,Kanye West,Hurricane,4820
-2021-10-13 22:40,Kanye West,Remote Control,2400
+2021-10-13 22:40,Playboi Carti,Hurricane,4820
+2021-10-13 22:40,Playboi Carti,Remote Control,2400
 2021-10-13 22:40,JAY-Z,Why I Love You,3420
-2021-10-13 22:40,Kanye West,Pure Souls,13990
+2021-10-13 22:40,Playboi Carti,Pure Souls,13990
 2021-10-13 22:40,JAY-Z,Primetime,4890
 2021-10-13 22:40,JAY-Z,Otis,5050
-2021-10-13 22:40,Kanye West,Praise God,3680
-2021-10-13 22:40,Kanye West,Hurricane,6370
-2021-10-13 22:40,Kanye West,New Again,1790
-2021-10-13 22:41,Kanye West,God Is,300
-2021-10-13 22:41,Kanye West,Come to Life,33600
-2021-10-13 22:41,Kanye West,Follow God,3590
-2021-10-13 22:41,Kanye West,Hands On,1410
-2021-10-13 22:41,Kanye West,Pure Souls,7430
-2021-10-13 22:41,Kanye West,Use This Gospel,1540
-2021-10-13 22:41,Kanye West,Closed On Sunday,2040
-2021-10-13 22:42,Kanye West,Follow God,1600
-2021-10-13 22:42,Kanye West,No Mistakes,590
-2021-10-13 22:42,Kanye West,No Mistakes,40500
-2021-10-13 22:42,Kanye West,Moon,9793
-2021-10-13 22:43,Kanye West,Devil In A New Dress,8700
-2021-10-13 22:43,Kanye West,Jail,12020
-2021-10-13 22:43,Kanye West,Homecoming,9410
-2021-10-13 22:43,Kanye West,No Mistakes,3076
-2021-10-13 22:43,Kanye West,No Mistakes,950
-2021-10-13 22:43,Kanye West,I Wonder,2710
-2021-10-13 22:43,Kanye West,Moon,12231
-2021-10-13 22:43,Kanye West,Moon,8100
-2021-10-13 22:44,Kanye West,Lost In The World,4700
-2021-10-13 22:44,Kanye West,Spaceship,6710
-2021-10-13 22:44,Kanye West,Gorgeous,2410
-2021-10-13 22:44,Kanye West,No More Parties In LA,3840
-2021-10-13 22:44,Kanye West,Violent Crimes,5330
+2021-10-13 22:40,Playboi Carti,Praise God,3680
+2021-10-13 22:40,Playboi Carti,Hurricane,6370
+2021-10-13 22:40,Playboi Carti,New Again,1790
+2021-10-13 22:41,Playboi Carti,God Is,300
+2021-10-13 22:41,Playboi Carti,Come to Life,33600
+2021-10-13 22:41,Playboi Carti,Follow God,3590
+2021-10-13 22:41,Playboi Carti,Hands On,1410
+2021-10-13 22:41,Playboi Carti,Pure Souls,7430
+2021-10-13 22:41,Playboi Carti,Use This Gospel,1540
+2021-10-13 22:41,Playboi Carti,Closed On Sunday,2040
+2021-10-13 22:42,Playboi Carti,Follow God,1600
+2021-10-13 22:42,Playboi Carti,No Mistakes,590
+2021-10-13 22:42,Playboi Carti,No Mistakes,40500
+2021-10-13 22:42,Playboi Carti,Moon,9793
+2021-10-13 22:43,Playboi Carti,Devil In A New Dress,8700
+2021-10-13 22:43,Playboi Carti,Jail,12020
+2021-10-13 22:43,Playboi Carti,Homecoming,9410
+2021-10-13 22:43,Playboi Carti,No Mistakes,3076
+2021-10-13 22:43,Playboi Carti,No Mistakes,950
+2021-10-13 22:43,Playboi Carti,I Wonder,2710
+2021-10-13 22:43,Playboi Carti,Moon,12231
+2021-10-13 22:43,Playboi Carti,Moon,8100
+2021-10-13 22:44,Playboi Carti,Lost In The World,4700
+2021-10-13 22:44,Playboi Carti,Spaceship,6710
+2021-10-13 22:44,Playboi Carti,Gorgeous,2410
+2021-10-13 22:44,Playboi Carti,No More Parties In LA,3840
+2021-10-13 22:44,Playboi Carti,Violent Crimes,5330
 2021-10-13 22:44,Travis Scott,90210 (feat. Kacy Hill),8500
-2021-10-13 22:44,Kanye West,No Mistakes,21038
-2021-10-13 22:44,Kanye West,Runaway,5990
-2021-10-13 22:45,Kanye West,No Mistakes,30510
-2021-10-13 22:46,Kanye West,Off The Grid,16690
-2021-10-13 22:46,Kanye West,Off The Grid,44020
-2021-10-13 22:46,Kanye West,Keep My Spirit Alive,2810
-2021-10-13 22:46,Kanye West,Moon,2590
-2021-10-13 22:49,Kanye West,I'm In It,2070
-2021-10-13 22:49,Kanye West,Hurricane,128781
-2021-10-13 22:49,Kanye West,Moon,668
-2021-10-13 23:28,Kanye West,I Am A God,3630
+2021-10-13 22:44,Playboi Carti,No Mistakes,21038
+2021-10-13 22:44,Playboi Carti,Runaway,5990
+2021-10-13 22:45,Playboi Carti,No Mistakes,30510
+2021-10-13 22:46,Playboi Carti,Off The Grid,16690
+2021-10-13 22:46,Playboi Carti,Off The Grid,44020
+2021-10-13 22:46,Playboi Carti,Keep My Spirit Alive,2810
+2021-10-13 22:46,Playboi Carti,Moon,2590
+2021-10-13 22:49,Playboi Carti,I'm In It,2070
+2021-10-13 22:49,Playboi Carti,Hurricane,128781
+2021-10-13 22:49,Playboi Carti,Moon,668
+2021-10-13 23:28,Playboi Carti,I Am A God,3630
 2021-10-13 23:31,SSGKobe,FNF,6948
 2021-10-13 23:31,SZA Archived,X n Oxy,176901
 2021-10-13 23:31,Destroy Lonely Archive,Casket,1940
-2021-10-14 00:05,Kanye West,Hell Of A Life,9140
+2021-10-14 00:05,Playboi Carti,Hell Of A Life,9140
 2021-10-14 00:06,Pink Floyd,Breathe (In the Air),66419
 2021-10-14 00:19,Steve Lacy,Like Me,1578
 2021-10-14 00:19,Pink Floyd,Any Colour You Like,206429
-2021-10-14 00:19,Kanye West,I Am A God,383
+2021-10-14 00:19,Playboi Carti,I Am A God,383
 2021-10-14 00:19,Luchii,X6,1002
 2021-10-14 00:19,TV Girl,Lovers Rock,30080
-2021-10-14 00:19,Kanye West,I Thought About Killing You,0
-2021-10-14 00:19,Kanye West,I'm In It,1045
+2021-10-14 00:19,Playboi Carti,I Thought About Killing You,0
+2021-10-14 00:19,Playboi Carti,I'm In It,1045
 2021-10-14 00:19,Cocteau Twins,"Sea, Swallow Me",9023
 2021-10-14 00:19,The Vaccines,Want You So Bad,2780
 2021-10-14 00:20,Maxo Kream,"BIG PERSONA (feat. Tyler, The Creator)",426
 2021-10-14 00:20,SSGKobe,FNF,682
 2021-10-14 00:20,SZA Archived,X n Oxy,3584
-2021-10-14 00:20,Kanye West,Wouldn't Leave,8938
+2021-10-14 00:20,Playboi Carti,Wouldn't Leave,8938
 2021-10-14 00:20,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",405
-2021-10-14 00:20,Chief Keef,Nobody (feat. Kanye West),255
+2021-10-14 00:20,Chief Keef,Nobody (feat. Playboi Carti),255
 2021-10-14 00:20,Yeat,Monëy so big,1898
 2021-10-14 00:23,A$AP Mob,"Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)",195666
 2021-10-14 00:26,Yeat,Monëy so big,160052
@@ -632,61 +632,61 @@ endTime,artistName,trackName,msPlayed
 2021-10-14 00:46,Trippie Redd,Molly Hearts,0
 2021-10-14 00:49,Paris Texas,AREA CODE,5031
 2021-10-14 00:49,Trippie Redd,Matt Hardy 999 (feat. Juice WRLD),188025
-2021-10-14 00:50,Kanye West,Street Lights,4437
+2021-10-14 00:50,Playboi Carti,Street Lights,4437
 2021-10-14 00:50,Trippie Redd,Supernatural,0
 2021-10-14 00:50,Trippie Redd,Super Cell,0
 2021-10-14 00:52,Trippie Redd,Matt Hardy 999 (feat. Juice WRLD),140160
 2021-10-14 00:58,Trippie Redd,Miss The Rage (feat. Playboi Carti),97216
-2021-10-14 02:56,Kanye West,Wouldn't Leave,4390
-2021-10-14 02:58,Kanye West,No Mistakes,123040
-2021-10-14 03:03,Kanye West,Ghost Town,271386
-2021-10-14 05:09,Kanye West,Violent Crimes,78063
-2021-10-14 08:03,Kanye West,Violent Crimes,46260
-2021-10-14 14:54,Kanye West,Yikes,106
-2021-10-14 14:54,Kanye West,Yikes,277
-2021-10-14 14:54,Kanye West,All Mine,746
+2021-10-14 02:56,Playboi Carti,Wouldn't Leave,4390
+2021-10-14 02:58,Playboi Carti,No Mistakes,123040
+2021-10-14 03:03,Playboi Carti,Ghost Town,271386
+2021-10-14 05:09,Playboi Carti,Violent Crimes,78063
+2021-10-14 08:03,Playboi Carti,Violent Crimes,46260
+2021-10-14 14:54,Playboi Carti,Yikes,106
+2021-10-14 14:54,Playboi Carti,Yikes,277
+2021-10-14 14:54,Playboi Carti,All Mine,746
 2021-10-14 14:54,SZA Archived,X n Oxy,1514
-2021-10-14 14:54,Kanye West,I Thought About Killing You,6698
-2021-10-14 14:54,Kanye West,I Thought About Killing You,9066
-2021-10-14 14:54,Kanye West,I Thought About Killing You,789
-2021-10-14 14:54,Kanye West,I'm In It,8651
-2021-10-14 14:54,Kanye West,Wouldn't Leave,205546
-2021-10-14 14:59,Kanye West,I Thought About Killing You,274186
-2021-10-14 15:04,Kanye West,Wouldn't Leave,205546
-2021-10-14 15:08,Kanye West,Ghost Town,271386
-2021-10-14 15:11,Kanye West,All Mine,145506
-2021-10-14 15:14,Kanye West,Violent Crimes,215320
-2021-10-14 15:16,Kanye West,No Mistakes,123040
-2021-10-14 15:19,Kanye West,Yikes,188773
-2021-10-14 15:23,Kanye West,Ultralight Beam,128896
-2021-10-14 16:52,Kanye West,Ultralight Beam,191876
+2021-10-14 14:54,Playboi Carti,I Thought About Killing You,6698
+2021-10-14 14:54,Playboi Carti,I Thought About Killing You,9066
+2021-10-14 14:54,Playboi Carti,I Thought About Killing You,789
+2021-10-14 14:54,Playboi Carti,I'm In It,8651
+2021-10-14 14:54,Playboi Carti,Wouldn't Leave,205546
+2021-10-14 14:59,Playboi Carti,I Thought About Killing You,274186
+2021-10-14 15:04,Playboi Carti,Wouldn't Leave,205546
+2021-10-14 15:08,Playboi Carti,Ghost Town,271386
+2021-10-14 15:11,Playboi Carti,All Mine,145506
+2021-10-14 15:14,Playboi Carti,Violent Crimes,215320
+2021-10-14 15:16,Playboi Carti,No Mistakes,123040
+2021-10-14 15:19,Playboi Carti,Yikes,188773
+2021-10-14 15:23,Playboi Carti,Ultralight Beam,128896
+2021-10-14 16:52,Playboi Carti,Ultralight Beam,191876
 2021-10-14 16:55,Playboi Carti,Magnolia,181812
 2021-10-14 16:55,Baby Keem,range brothers (with Kendrick Lamar),14250
-2021-10-14 20:33,Kanye West,Yikes,576
-2021-10-14 20:33,Kanye West,All Mine,2389
-2021-10-14 20:33,Kanye West,I Thought About Killing You,56234
-2021-10-14 20:33,Playboi Carti,Go2DaMoon (feat. Kanye West),128
+2021-10-14 20:33,Playboi Carti,Yikes,576
+2021-10-14 20:33,Playboi Carti,All Mine,2389
+2021-10-14 20:33,Playboi Carti,I Thought About Killing You,56234
+2021-10-14 20:33,Playboi Carti,Go2DaMoon (feat. Playboi Carti),128
 2021-10-14 20:33,Playboi Carti,Stop Breathing,1962
-2021-10-14 20:33,Kanye West,Wouldn't Leave,22357
+2021-10-14 20:33,Playboi Carti,Wouldn't Leave,22357
 2021-10-14 20:33,Playboi Carti,Rockstar Made,981
 2021-10-14 20:34,Playboi Carti,Meh,78570
 2021-10-14 20:37,Playboi Carti,M3tamorphosis (feat. Kid Cudi),125909
 2021-10-14 20:38,Playboi Carti,New Tank,89741
 2021-10-14 21:12,Playboi Carti,Place,66451
 2021-10-15 04:15,Kodak Black,Killing The Rats,52740
-2021-10-15 04:15,Kanye West,I Thought About Killing You,820
-2021-10-15 05:34,Kanye West,Wouldn't Leave,3480
-2021-10-15 14:59,Kanye West,All Mine,18572
-2021-10-15 14:59,Kanye West,Wouldn't Leave,205546
-2021-10-15 15:03,Kanye West,Violent Crimes,215320
-2021-10-15 15:07,Kanye West,Ghost Town,271386
-2021-10-15 15:09,Kanye West,No Mistakes,123040
-2021-10-15 15:12,Kanye West,Yikes,188773
-2021-10-15 15:17,Kanye West,I Thought About Killing You,274186
-2021-10-15 15:20,Kanye West,God Breathed,15253
-2021-10-15 15:20,Kanye West,Jail,789
-2021-10-15 15:20,Playboi Carti,Go2DaMoon (feat. Kanye West),6378
-2021-10-15 15:20,Kanye West,Black Skinhead,167423
+2021-10-15 04:15,Playboi Carti,I Thought About Killing You,820
+2021-10-15 05:34,Playboi Carti,Wouldn't Leave,3480
+2021-10-15 14:59,Playboi Carti,All Mine,18572
+2021-10-15 14:59,Playboi Carti,Wouldn't Leave,205546
+2021-10-15 15:03,Playboi Carti,Violent Crimes,215320
+2021-10-15 15:07,Playboi Carti,Ghost Town,271386
+2021-10-15 15:09,Playboi Carti,No Mistakes,123040
+2021-10-15 15:12,Playboi Carti,Yikes,188773
+2021-10-15 15:17,Playboi Carti,I Thought About Killing You,274186
+2021-10-15 15:20,Playboi Carti,God Breathed,15253
+2021-10-15 15:20,Playboi Carti,Jail,789
+2021-10-15 15:20,Playboi Carti,Go2DaMoon (feat. Playboi Carti),6378
+2021-10-15 15:20,Playboi Carti,Black Skinhead,167423
 2021-10-15 15:20,JAY-Z,No Church In The Wild,7360
 2021-10-15 15:20,JAY-Z,Made In America,5354
 2021-10-15 15:25,JAY-Z,No Church In The Wild,272506
@@ -694,21 +694,21 @@ endTime,artistName,trackName,msPlayed
 2021-10-15 15:36,JAY-Z,Illest Motherf**ker Alive,27556
 2021-10-15 15:38,JAY-Z,Why I Love You,108460
 2021-10-15 15:38,JAY-Z,Otis,11750
-2021-10-15 15:40,Kanye West,New Slaves,123769
-2021-10-15 15:44,Kanye West,I Am A God,229300
-2021-10-15 15:44,Kanye West,New Slaves,830
-2021-10-15 15:45,Kanye West,I Am A God,56726
-2021-10-15 15:45,Kanye West,On Sight,12630
-2021-10-15 15:50,Kanye West,Ultralight Beam,320680
-2021-10-15 15:56,Kanye West,Saint Pablo,372113
-2021-10-15 15:59,Kanye West,Low Lights,131773
-2021-10-15 16:03,Kanye West,I Love Kanye,44826
-2021-10-15 16:03,Kanye West,FML,236120
-2021-10-15 16:04,Kanye West,Siiiiiiiiilver Surffffeeeeer Intermission,56560
-2021-10-15 16:08,Kanye West,Fade,193747
-2021-10-15 16:08,Kanye West,Frank's Track,38333
-2021-10-15 16:11,Kanye West,Pt. 2,129877
-2021-10-15 16:16,Kanye West,30 Hours,323302
+2021-10-15 15:40,Playboi Carti,New Slaves,123769
+2021-10-15 15:44,Playboi Carti,I Am A God,229300
+2021-10-15 15:44,Playboi Carti,New Slaves,830
+2021-10-15 15:45,Playboi Carti,I Am A God,56726
+2021-10-15 15:45,Playboi Carti,On Sight,12630
+2021-10-15 15:50,Playboi Carti,Ultralight Beam,320680
+2021-10-15 15:56,Playboi Carti,Saint Pablo,372113
+2021-10-15 15:59,Playboi Carti,Low Lights,131773
+2021-10-15 16:03,Playboi Carti,I Love Kanye,44826
+2021-10-15 16:03,Playboi Carti,FML,236120
+2021-10-15 16:04,Playboi Carti,Siiiiiiiiilver Surffffeeeeer Intermission,56560
+2021-10-15 16:08,Playboi Carti,Fade,193747
+2021-10-15 16:08,Playboi Carti,Frank's Track,38333
+2021-10-15 16:11,Playboi Carti,Pt. 2,129877
+2021-10-15 16:16,Playboi Carti,30 Hours,323302
 2021-10-15 16:19,Kanye West,Facts (Charlie Heat Version),200733
 2021-10-15 16:26,Kanye West,No More Parties In LA,374413
 2021-10-15 16:28,Kanye West,Feedback,147240
