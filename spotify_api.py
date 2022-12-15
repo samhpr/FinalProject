@@ -8,8 +8,8 @@ import json
 import base64
 
 # TODO: move these into a file/environment variable external to the code
-client_ID = "6cb99f7b82ec4fc9a3f102862192cde3"
-client_secret = "7e809acef5034eea844a50b381c5ab18"
+client_ID = ""
+client_secret = ""
 
 auth_endpoint = "https://accounts.spotify.com/api/token"
 search_API_endpoint = "https://api.spotify.com/v1/search"
